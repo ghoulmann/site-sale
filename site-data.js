@@ -5,7 +5,7 @@ const LOT_INFO = {
     "All-or-nothing: Taker must take the entire lot in one trip",
     "Bring a large vehicle (SUV/van/truck) and bins/crates",
     "This person cannot help physically with moving or loading",
-    "Cash or agreed digital payment (Zelle/Venmo) upon inspection"
+    "If there is money involved, cash or agreed digital payment (Zelle/Venmo) upon inspection"
   ]
 };
 const LOT_ITEMS = [

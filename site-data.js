@@ -1,10 +1,10 @@
 const LOT_INFO = {
   "headline": "Tech & IT liquidation lot \u2014 laptops, networking, home lab gear, components (must take all)",
-  "condition_blanket": "Not bench tested; everything worked before being packed and moved a few times. Cleaned and structurally sound. Expect minor cosmetic wear on legacy laptop chassis.",
+  "condition_blanket": "Not bench tested; everything worked before being packed and moved a few times. Structurally sound. Expect minor cosmetic wear on legacy laptop chassis.",
   "terms": [
-    "All-or-nothing: buyer must take the entire lot in one trip",
+    "All-or-nothing: Taker must take the entire lot in one trip",
     "Bring a large vehicle (SUV/van/truck) and bins/crates",
-    "Seller cannot help physically with moving or loading",
+    "This person cannot help physically with moving or loading",
     "Cash or agreed digital payment (Zelle/Venmo) upon inspection"
   ]
 };
